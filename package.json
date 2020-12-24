@@ -1,0 +1,11 @@
+{
+  "name": "linkvertise-bypass",
+  "version": "1.3.2",
+  "description": "Bypass linkvertise package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "craftnoleg",
+  "license": "ISC"
+}
